@@ -1,2 +1,2 @@
 # ByteBlitz
-A once in a day opportunity to win big!
+A once-a-day opportunity to win big!
